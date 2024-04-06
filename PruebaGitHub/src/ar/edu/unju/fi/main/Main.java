@@ -19,7 +19,7 @@ public class Main {
 	   otraPersona.setPeso(67f);
 	   otraPersona.setAltura(167f);
 	   
-	   
+	   System.out.println("HOLA MUNDO\n");
 	   System.out.println("PRIMERA PERSONA\n" + pepe.toString() + "\n");
 	   System.out.println("SEGUNDA PERSONA\n" + otraPersona.toString());
 	}
